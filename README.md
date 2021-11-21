@@ -2,6 +2,8 @@
 A cost efficient and fully funtional prototype
 
 Site for Reference: https://randomnerdtutorials.com/esp32-sim800l-publish-data-to-cloud/
+SIM800L GSM MODULE Details: https://www.elecrow.com/wiki/images/2/20/SIM800_Series_AT_Command_Manual_V1.09.pdf
+Using SIM800L: https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/
 
 ## Components:
 1. 3.7V 160mAH (Lithium Polymer) Lipo Rechargeable Battery Model
